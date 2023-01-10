@@ -23,8 +23,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "debug": "2.1.0",
-    "superagent": "0.21.0"
+    "debug": "3.1.0",
+    "superagent": "3.6.1"
   },
   "devDependencies": {
     "better-assert": "1.0.2",
